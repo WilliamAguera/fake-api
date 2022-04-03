@@ -1,0 +1,58 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Keeping the dream alive by traveling the world.",
+        "thumbnail": "https://picsum.photos/seed/100/320/300",
+        "description": "Integrate the latest technologies with an innovative platform...",
+        "coverPhoto": "https://picsum.photos/seed/100/680/400",
+        "author": {
+            "avatar": "https://i.pravatar.cc/300",
+            "name": "William Aguera"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Keeping the dream alive by traveling the world.",
+        "thumbnail": "https://picsum.photos/seed/200/320/300",
+        "description": "Integrate the latest technologies with an innovative platform...",
+        "coverPhoto": "https://picsum.photos/seed/200/680/400",
+        "author": {
+            "avatar": "https://i.pravatar.cc/300",
+            "name": "Joana Dark"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Keeping the dream alive by traveling the world.",
+        "thumbnail": "https://picsum.photos/seed/300/320/300",
+        "description": "Integrate the latest technologies with an innovative platform...",
+        "coverPhoto": "https://picsum.photos/seed/300/680/400",
+        "author": {
+            "avatar": "https://i.pravatar.cc/300",
+            "name": "Roger Muller"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Keeping the dream alive by traveling the world.",
+        "thumbnail": "https://picsum.photos/seed/400/320/300",
+        "description": "Integrate the latest technologies with an innovative platform...",
+        "coverPhoto": "https://picsum.photos/seed/400/680/400",
+        "author": {
+            "avatar": "https://i.pravatar.cc/300",
+            "name": "John Doe"
+        }
+      }
+    ],
+    "users": [
+        {
+            "username": "williamaguera",
+            "password": "12345678"
+        },
+        {
+            "username": "luisk",
+            "password": "luis123"
+        }
+    ]
+  }
